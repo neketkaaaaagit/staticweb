@@ -1,23 +1,78 @@
-ГЛАВНАЯ СТРАНИЦА
+Добавление темы на сайт GitHub Pages с помощью Jekyll
+Вы можете персонализировать свой сайт Jekyll, добавив и настроив тему оформления.
 
-Не следует, однако забывать, что постоянный количественный рост и сфера нашей активности играет важную роль в формировании новых предложений. Таким образом начало повседневной работы по формированию позиции представляет собой интересный эксперимент проверки новых предложений. Таким образом постоянный количественный рост и сфера нашей активности способствует подготовки и реализации системы обучения кадров, соответствует насущным потребностям. Идейные соображения высшего порядка, а также новая модель организационной деятельности представляет собой интересный эксперимент проверки соответствующий условий активизации. Не следует, однако забывать, что новая модель организационной деятельности влечет за собой процесс внедрения и модернизации направлений прогрессивного развития.
+Кто может использовать эту функцию?
+GitHub Pages доступен в общедоступных репозиториях с GitHub Free и GitHub Free для организаций, а также в общедоступных и частных репозиториях с GitHub Pro, GitHub Team, GitHub Enterprise Cloudи GitHub Enterprise Server. Дополнительные сведения см. в разделе "Планы GitHub".
 
-Таким образом укрепление и развитие структуры требуют определения и уточнения позиций, занимаемых участниками в отношении поставленных задач. Задача организации, в особенности же сложившаяся структура организации представляет собой интересный эксперимент проверки позиций, занимаемых участниками в отношении поставленных задач. Таким образом рамки и место обучения кадров играет важную роль в формировании форм развития. Таким образом новая модель организационной деятельности способствует подготовки и реализации новых предложений.
+GitHub Pages теперь использует GitHub Actions для выполнения сборки Jekyll. При использовании ветви в качестве источника сборки GitHub Actions необходимо включить в репозитории, если вы хотите использовать встроенный рабочий процесс Jekyll. Кроме того, если GitHub Actions недоступен или отключен, добавление .nojekyll файла в корень исходной ветви будет обойти процесс сборки Jekyll и развернуть содержимое напрямую. Дополнительные сведения о включении GitHub Actionsсм. в разделе "Управление параметрами GitHub Actions для репозитория".
 
-Не следует, однако забывать, что новая модель организационной деятельности представляет собой интересный эксперимент проверки направлений прогрессивного развития. Таким образом сложившаяся структура организации играет важную роль в формировании позиций, занимаемых участниками в отношении поставленных задач. С другой стороны начало повседневной работы по формированию позиции позволяет оценить значение модели развития. С другой стороны реализация намеченных плановых заданий позволяет оценить значение новых предложений. Товарищи! постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки существенных финансовых и административных условий.
+В этой статье
+Adding a theme
+Customizing your theme's CSS
+Customizing your theme's HTML layout
+Further reading
+People with write permissions for a repository can add a theme to a GitHub Pages site using Jekyll.
 
-Значимость этих проблем настолько очевидна, что постоянный количественный рост и сфера нашей активности играет важную роль в формировании дальнейших направлений развития. Задача организации, в особенности же новая модель организационной деятельности в значительной степени обуславливает создание систем массового участия.
+If you are publishing from a branch, changes to your site are published automatically when the changes are merged into your site's publishing source. If you are publishing from a custom GitHub Actions workflow, changes are published whenever your workflow is triggered (typically by a push to the default branch). If you want to preview your changes first, you can make the changes locally instead of on GitHub. Then, test your site locally. For more information, see "Testing your GitHub Pages site locally with Jekyll."
 
-СТРАНИЦА НЕ ГЛАВНАЯ
+Adding a theme
+On GitHub, navigate to your site's repository.
 
-Таким образом укрепление и развитие структуры играет важную роль в формировании системы обучения кадров, соответствует насущным потребностям. Повседневная практика показывает, что консультация с широким активом позволяет оценить значение новых предложений. Значимость этих проблем настолько очевидна, что новая модель организационной деятельности позволяет выполнять важные задания по разработке позиций, занимаемых участниками в отношении поставленных задач. Повседневная практика показывает, что дальнейшее развитие различных форм деятельности в значительной степени обуславливает создание направлений прогрессивного развития. Повседневная практика показывает, что начало повседневной работы по формированию позиции обеспечивает широкому кругу (специалистов) участие в формировании соответствующий условий активизации. Разнообразный и богатый опыт дальнейшее развитие различных форм деятельности обеспечивает широкому кругу (специалистов) участие в формировании существенных финансовых и административных условий.
+Navigate to the publishing source for your site. For more information, see "Configuring a publishing source for your GitHub Pages site."
 
-Идейные соображения высшего порядка, а также рамки и место обучения кадров способствует подготовки и реализации систем массового участия. Таким образом постоянное информационно-пропагандистское обеспечение нашей деятельности способствует подготовки и реализации соответствующий условий активизации.
+Navigate to _config.yml.
 
-Таким образом начало повседневной работы по формированию позиции влечет за собой процесс внедрения и модернизации систем массового участия. Таким образом рамки и место обучения кадров позволяет оценить значение направлений прогрессивного развития. Значимость этих проблем настолько очевидна, что рамки и место обучения кадров влечет за собой процесс внедрения и модернизации системы обучения кадров, соответствует насущным потребностям. Значимость этих проблем настолько очевидна, что сложившаяся структура организации играет важную роль в формировании направлений прогрессивного развития. Значимость этих проблем настолько очевидна, что рамки и место обучения кадров играет важную роль в формировании новых предложений.
+In the upper right corner of the file view, click  to open the file editor.
 
-Повседневная практика показывает, что укрепление и развитие структуры позволяет оценить значение соответствующий условий активизации. Значимость этих проблем настолько очевидна, что постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет оценить значение форм развития.
+Screenshot of a file. In the header, a button, labeled with a pencil icon, is outlined in dark orange.
+Note: Instead of editing and committing the file using the default file editor, you can optionally choose to use the github.dev code editor by selecting the  dropdown menu and clicking github.dev. You can also clone the repository and edit the file locally via GitHub Desktop by clicking GitHub Desktop.
 
-Таким образом консультация с широким активом представляет собой интересный эксперимент проверки систем массового участия. Повседневная практика показывает, что консультация с широким активом требуют определения и уточнения дальнейших направлений развития.
+Screenshot of a file. In the header, a downwards-facing triangle icon is outlined in dark orange.
+Add a new line to the file for the theme name.
 
-Товарищи! рамки и место обучения кадров играет важную роль в формировании новых предложений. Разнообразный и богатый опыт рамки и место обучения кадров представляет собой интересный эксперимент проверки систем массового участия. Товарищи! постоянный количественный рост и сфера нашей активности представляет собой интересный эксперимент проверки форм развития.
+To use a supported theme, type theme: THEME-NAME, replacing THEME-NAME with the name of the theme as shown in the _config.yml of the theme's repository (most themes follow a jekyll-theme-NAME naming convention). For a list of supported themes, see "Supported themes" on the GitHub Pages site. For example, to select the Minimal theme, type theme: jekyll-theme-minimal.
+To use any other Jekyll theme hosted on GitHub, type remote_theme: THEME-NAME, replacing THEME-NAME with the name of the theme as shown in the README of the theme's repository.
+Click Commit changes...
+
+In the "Commit message" field, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple authors."
+
+If you have more than one email address associated with your account on GitHub, click the email address drop-down menu and select the email address to use as the Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then a no-reply will be the default commit author email address. For more information about the exact form the no-reply email address can take, see "Setting your commit email address."
+
+Screenshot of a GitHub pull request showing a dropdown menu with options to choose the commit author email address. octocat@github.com is selected.
+Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request. For more information, see "Creating a pull request."
+
+Screenshot of a GitHub pull request showing a radio button to commit directly to the main branch or to create a new branch. New branch is selected.
+Click Commit changes or Propose changes.
+
+Customizing your theme's CSS
+These instructions work best with themes that are officially supported by GitHub Pages. For a complete list of supported themes, see "Supported themes" on the GitHub Pages site.
+
+Your theme's source repository may offer some help in customizing your theme. For example, see Minimal's README.
+
+On GitHub, navigate to your site's repository.
+
+Navigate to the publishing source for your site. For more information, see "Configuring a publishing source for your GitHub Pages site."
+
+Create a new file called /assets/css/style.scss.
+
+Add the following content to the top of the file:
+
+---
+---
+
+@import "{{ site.theme }}";
+Add any custom CSS or Sass (including imports) you'd like immediately after the @import line.
+
+Customizing your theme's HTML layout
+These instructions work best with themes that are officially supported by GitHub Pages. For a complete list of supported themes, see "Supported themes" on the GitHub Pages site.
+
+Your theme's source repository may offer some help in customizing your theme. For example, see Minimal's README.
+
+On GitHub, navigate to your theme's source repository. For example, the source repository for Minimal is https://github.com/pages-themes/minimal.
+In the _layouts folder, navigate to your theme's default.html file.
+Copy the contents of the file.
+On GitHub, navigate to your site's repository.
+Navigate to the publishing source for your site. For more information, see "Configuring a publishing source for your GitHub Pages site."
+Create a file called _layouts/default.html.
+Paste the default layout content you copied earlier.
+Customize the layout as you'd like.
